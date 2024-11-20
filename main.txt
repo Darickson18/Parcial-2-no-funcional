@@ -1,0 +1,5 @@
+from inventario import inventario
+
+def main ():
+    inv = inventario()
+    inv = 
