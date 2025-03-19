@@ -1,0 +1,1 @@
+def_init_(self,cedula,sexo,edad,tipo de seguro,descuento)
